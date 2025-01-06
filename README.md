@@ -1,4 +1,4 @@
-# EaglercraftX
+# EaglercraftX  DO NOT USE REPLIT IT HAS GOTTEN SIGNIFICANTLY WORSE OVER TIME
 #### smashed together by [ayunami2000](https://github.com/ayunami2000)
 ##### and [EaglercraftX](https://gitlab.com/lax1dude/eaglercraftx-1.8) developed by [lax1dude](https://github.com/lax1dude)
 
